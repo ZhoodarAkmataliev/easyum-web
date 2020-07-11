@@ -1,0 +1,154 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+}
+
+.left{
+    display: block;
+    float: left;
+    font-size: 16px;
+}
+
+.right{
+    display: block;
+    float: right;
+    font-size: 16px;
+}
+
+.center{
+    text-align: center;
+    font-size: 16px;
+    color: white;
+}
+
+.heading{
+    text-align: center;
+    font-size: 28px;
+    margin: 0;
+    padding-top: 24px;
+}
+
+.index-header {
+    border: 3px solid black;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.login-logout{
+    float: right;
+    font-size: 16px;
+}
+
+.section-div{
+    margin: 30px;
+    text-align: center;
+}
+
+.sections{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.disciplines-list{
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.discipline-box{
+    width: 300px;
+    height: 100px;
+    padding: 0;
+}
+
+.login-form{
+    text-align: left;
+    width: 300px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+
+.login-input{
+    width: 100%;
+}
+
+.form-first-column{
+    width: 316px;
+}
+
+.form-second-column{
+    width: 280px;
+}
+
+td{
+    border: 2px solid black;
+    padding-left: 4px;
+}
+
+.table-heading{
+    text-align: left;
+}
+
+tr{
+    height: 100px;
+}
+
+.temp-one{
+    width: 80px;
+}
+
+.temp-two{
+    width: 200px;
+}
+
+.temp-three{
+    width: 200px;
+}
+
+.temp-four{
+    width: 200px;
+}
+
+.temp-five{
+    width: 150px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.container {
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.students-list{
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.turn-term{
+    margin-top: 22px;
+}
+
+.select-term{
+    width: 90px;
+    margin-left: 30px;
+}
+
+.how-long-term{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.discipline-term-list{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.terms-table{
+    margin-top: 20px;
+}
